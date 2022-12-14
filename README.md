@@ -1,2 +1,2 @@
 # Practice
-My first html code using html reference
+https://yousuf-safin.github.io/Practice/
